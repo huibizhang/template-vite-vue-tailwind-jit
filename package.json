@@ -6,12 +6,12 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vitawind": "^1.2.7",
     "vue": "^3.0.5"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.2.3",
     "@vue/compiler-sfc": "^3.0.5",
-    "vite": "^2.4.4"
+    "vite": "^2.4.4",
+    "vitawind": "^1.2.7"
   }
 }
